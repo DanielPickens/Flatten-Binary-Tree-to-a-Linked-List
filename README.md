@@ -1,4 +1,4 @@
-# Flatter-Binary-Tree-to-a-Linked-List
+# Flatten-Binary-Tree-to-a-Linked-List
 My very clean solution in JavaScript that is faster than 92%
 
 "Given the root of a binary tree, flatten the tree into a "linked list":
